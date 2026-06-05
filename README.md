@@ -2,7 +2,7 @@
 
 Pure Data patch for generating sound textures inspired by ocean waves.
 
-Created as a study project in Music and Technology, exploring sound synthesis, filtered noise, stochastic processes, and ambient sound design.
+Created as a study project in Music and Technology, exploring sound synthesis, filtered noise, stochastic processes, and design sound.
 
 ## Features
 
@@ -14,8 +14,7 @@ Created as a study project in Music and Technology, exploring sound synthesis, f
 
 ## Requirements
 
-* Pure Data Vanilla
-* ELSE library
+* Pure Data Vanilla (0.56-2)
 
 ## Files
 
